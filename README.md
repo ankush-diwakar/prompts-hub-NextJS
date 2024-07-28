@@ -103,7 +103,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view)
 
-## <a name="live">🔗 Live Links</a>
+## <a name="live">⭕ Live Website Link</a>
  Visit the live website [here](https://prompts-hub.onrender.com)
 
 
