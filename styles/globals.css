@@ -62,7 +62,7 @@
   height: 100%;
   filter: blur(100px) saturate(150%);
   top: 80px;
-  opacity: 0.15;
+  opacity: 0.20;
 }
 
 @media screen and (max-width: 640px) {
